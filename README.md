@@ -18,8 +18,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h2>
 
-A wandering traveler 🌍 
-
 Learning, experimenting, and growing—feel free to connect!
 
 - ✉️ **Email:** [azkqin@gmail.com](mailto:azkqin@gmail.com)  
