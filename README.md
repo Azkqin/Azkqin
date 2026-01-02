@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" width="30" style="margin-left: 10px;" />
 </h2>
 
-A traveler in this Dunya 🌍 | Learning, experimenting, and growing—feel free to connect!
+A traveler in this Dunya 🌍 
+
+Learning, experimenting, and growing—feel free to connect!
 
 - ✉️ **Email:** [azkqin@gmail.com](mailto:azkqin@gmail.com)  
 - 💬 **Discord:** [亜朱欽](https://discord.com/users/1453064880419639308) 
